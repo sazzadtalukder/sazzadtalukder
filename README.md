@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md. Sazzad Talukder</h1>
 <h3 align="center">MERN Stack Developer</h3>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadtalukder&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadtalukder" /> </p>
   ## 🔧 Technologies I Use
 - **Frontend**: React.js, Tailwind CSS, HTML, CSS
 - **Backend**: Node.js, Express.js
@@ -13,7 +13,7 @@
 - [Portfolio](https://sazzadtalukderportfolio.netlify.app/)
 - Email: sazzadtalukdercseiu@gmail.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sazzadtalukder&label=Profile%20views&color=0e75b6&style=flat" alt="sazzadtalukder" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzadtalukder" alt="sazzadtalukder" /></a> </p>
 
