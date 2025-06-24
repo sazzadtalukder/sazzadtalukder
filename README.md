@@ -4,8 +4,7 @@
 
   ## 🔧 Technologies I Use
 - **Frontend**: React.js, Tailwind CSS, HTML, CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Backend**: Node.js, Express.js, MongoDB 
 - **Other Tools**: JWT, Stripe, Firebase, Git, GitHub
 
 
