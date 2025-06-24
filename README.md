@@ -8,13 +8,6 @@
 - **Other Tools**: JWT, Stripe, Firebase, Git, GitHub
 
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/md-sazzad-talukder-a66167143/)
-- [Portfolio](https://sazzadtalukderportfolio.netlify.app/)
-- Email: sazzadtalukdercseiu@gmail.com
-
-
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sazzadtalukder" alt="sazzadtalukder" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -31,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sazzadtalukder&show_icons=true&locale=en" alt="sazzadtalukder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sazzadtalukder&" alt="sazzadtalukder" /></p>
+- [Portfolio](https://sazzadtalukderportfolio.netlify.app/)
